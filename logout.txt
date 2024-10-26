@@ -1,1 +1,1 @@
-this is a logout pages
+this is a logout paged as as master
